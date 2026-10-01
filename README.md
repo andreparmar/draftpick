@@ -141,3 +141,7 @@ for a 10-team league where you pick third.
 draftpick is an independent project, not affiliated with or endorsed by ESPN. It
 relies on ESPN's unofficial web endpoints, which can change without notice. Use
 it within ESPN's terms of service and your league's rules.
+
+## License
+
+[MIT](LICENSE)
